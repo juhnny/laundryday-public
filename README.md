@@ -1,3 +1,5 @@
+\+ Source code is private +
+
 <img src="https://play-lh.googleusercontent.com/h-rHuTxoPgxlQV4z9pa5iLbTZbJPZzNl0Dnbd618QwBBokzZFxkSois8SgTTmX9p3A=w480-h960-rw" alt="앱 화면" width="200"/>
 
 # 빨래하는날 LaundryDay
@@ -27,21 +29,18 @@ Estimated dryint time based on Laundex.
 Set a timer with just one tap.
 
 ## 🛠️ Development
-Kotlin
 
-Jetpack Compose
-
-MVVM, [Android's recommended App Architecture](https://developer.android.com/topic/architecture)
-
-coroutines
-
-Hilt
-
-Bitrise
-
-Retrofit2, OkHttp
-
-Navigation
+- **Language:** Kotlin
+- **UI:** Jetpack Compose
+- **Navigation:** Jetpack Navigation
+- **Architecture:** MVVM, [Android's recommended App Architecture](https://developer.android.com/topic/architecture)
+- **Asynchronous:** Kotlin Coroutines
+- **Networking:** Retrofit2, OkHttp
+- **DI:** Hilt
+- **CI/CD:** Bitrise
+- **Testing:** JUnit, Espresso
+- **Analytics:** Firebase, Crashlytics
 
 ## 📋 History and Next
+
 [작업일지 Dev Log](https://juhnio.tistory.com/36)
