@@ -27,7 +27,21 @@ Estimated dryint time based on Laundex.
 Set a timer with just one tap.
 
 ## 🛠️ Development
-// TODO
+Kotlin
+
+Jetpack Compose
+
+MVVM, [Android's recommended App Architecture](https://developer.android.com/topic/architecture)
+
+coroutines
+
+Hilt
+
+Bitrise
+
+Retrofit2, OkHttp
+
+Navigation
 
 ## 📋 History and Next
 [작업일지 Dev Log](https://juhnio.tistory.com/36)
