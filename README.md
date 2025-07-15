@@ -43,4 +43,7 @@ Set a timer with just one tap.
 
 ## 📋 History and Next
 
-[작업일지 Dev Log](https://juhnio.tistory.com/36)
+개발 과정에서 있었던 고민들과 앞으로의 계획을 공유합니다. 
+
+Ideas behind the development process and future plans.
+- [작업일지 Dev Log](https://juhnio.tistory.com/36)
