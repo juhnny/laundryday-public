@@ -36,6 +36,7 @@ Set a timer with just one tap.
 - **Architecture:** MVVM, [Android's recommended App Architecture](https://developer.android.com/topic/architecture)
 - **Asynchronous:** Kotlin Coroutines
 - **Networking:** Retrofit2, OkHttp
+- **Persistence:** DataStore, Room
 - **DI:** Hilt
 - **CI/CD:** Bitrise
 - **Testing:** JUnit, Espresso
