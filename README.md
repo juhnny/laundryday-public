@@ -39,7 +39,7 @@ Set a timer with just one tap.
 - **Persistence:** DataStore, Room
 - **DI:** Hilt
 - **CI/CD:** Bitrise
-- **Testing:** JUnit, Espresso
+- **Testing:** JUnit5 <!-- , Espresso -->
 <!-- - **Analytics:** Firebase, Crashlytics -->
 
 ## 📋 History and Next
