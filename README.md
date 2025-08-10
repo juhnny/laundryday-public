@@ -40,7 +40,7 @@ Set a timer with just one tap.
 - **DI:** Hilt
 - **CI/CD:** Bitrise
 - **Testing:** JUnit, Espresso
-- **Analytics:** Firebase, Crashlytics
+<!-- - **Analytics:** Firebase, Crashlytics -->
 
 ## 📋 History and Next
 
